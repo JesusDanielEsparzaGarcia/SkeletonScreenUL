@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#00ACC1</color>
+    <color name="colorAccent">#FFA726</color>
+    <color name="colorAccent2">#f3ca40</color>
+    <color name="background">#fbfffe</color>
+
+    <!--<color name="colorBlankData50">#ebeef2</color>
+    <color name="colorBlankData100">#cdd6de</color>
+    <color name="colorBlankData200">#abbac8</color>
+    <color name="colorBlankData300">#899eb1</color>
+    <color name="colorBlankData400">#708aa1</color>
+    <color name="colorBlankData500">#577590</color>-->
+</resources>

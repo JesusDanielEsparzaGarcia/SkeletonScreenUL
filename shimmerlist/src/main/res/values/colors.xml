@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- color blank data for shimmer -->
+    <color name="colorBlankData50" tools:override="true">#f5f7f8</color>
+    <color name="colorBlankData100" tools:override="true">#e6eaef</color>
+    <color name="colorBlankData200" tools:override="true">#d5dde4</color>
+    <color name="colorBlankData300" tools:override="true">#c4cfd9</color>
+    <color name="colorBlankData400" tools:override="true">#b8c4d0</color>
+    <color name="colorBlankData500" tools:override="true">#abbac8</color>
+</resources>
